@@ -1,9 +1,5 @@
 # gitlab-runner
 
-## Description
-
-Register and run Gitlab Runner by starting docker image.
-
 ## Configure
 
 - Copy `.env.example` to `.env`.
