@@ -8,7 +8,7 @@
 
 - Add registration token to `REGISTRATION_TOKEN`.
 
-- Set `DESCRIPTION` to whatever you want.
+- Set `DESCRIPTION` to whatever you want (usually the hostname).
 
 - Add allowed-to-run tags seperated by comma to `TAG_LIST`.
 
